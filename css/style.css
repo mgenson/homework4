@@ -135,8 +135,6 @@ header p{
 
 .about-image, .method-image, .clients-image, .contact-image{
   grid-column: 1/ -1;
-  max-height: 700px;
-  max-width: 100%;
   overflow:hidden;
    /*Your code here */
    /* See documentation for mobile view */
@@ -144,8 +142,6 @@ header p{
 
 .about, .about-image{
   grid-row: 3;
-  max-height: 700px;
-  max-width: 100%;
   /*Your code here */
   /* See documentation for mobile view */
 
@@ -153,8 +149,6 @@ header p{
 
 .method, .method-image{
   grid-row: 4;
-  max-height: 700px;
-  max-width: 100%;
   /*Your code here */
   /* See documentation for mobile view */
 }
@@ -162,8 +156,6 @@ header p{
 
 .clients, .clients-image{
   grid-row: 5;
-  max-height: 700px;
-  max-width: 100%;
   /*Your code here */
   /* See documentation for mobile view */
 }
@@ -171,8 +163,6 @@ header p{
 
 .contact, .contact-image{
   grid-row: 6;
-  max-height: 700px;
-  max-width: 100%;
   /*Your code here */
   /* See documentation for mobile view */
 }
