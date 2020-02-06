@@ -92,6 +92,7 @@ header{
   background-position: center;  /* Parallax effect */
   background-repeat: no-repeat; /* Parallax effect */
   background-size: cover;       /* Parallax effect */
+  /* background-color: #4D4D4D; /*changed color based on contrast error in wave */
   color: white;
   height: 400px;
   grid-column: 1/ -1;
